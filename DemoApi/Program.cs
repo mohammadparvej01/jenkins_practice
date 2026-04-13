@@ -14,7 +14,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-int x = "op";  // to check breaking of code using jenkins
+//int x = "op";  // to check breaking of code using jenkins
 
 var summaries = new[]
 {
