@@ -2,12 +2,6 @@
     agent any
 
     stages {
-        stage('Checkout') {
-            steps {
-                git 'https://github.com/mohammadparvej01/jenkins_practice'
-            }
-        }
-
         stage('Restore') {
             steps {
                 bat 'dotnet restore'
