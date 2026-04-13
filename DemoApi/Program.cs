@@ -14,6 +14,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+int x = "op";  // to check breaking of code using jenkins
+
 var summaries = new[]
 {
     "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"

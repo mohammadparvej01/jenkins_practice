@@ -89,11 +89,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MohammadParvejMohamm\\Desktop\\gen\\DemoApi\\DemoApi.csproj",
+      "projectUniqueName": "C:\\Users\\MohammadParvejMohamm\\Desktop\\up\\jenkins_practice\\DemoApi\\DemoApi.csproj",
       "projectName": "DemoApi",
-      "projectPath": "C:\\Users\\MohammadParvejMohamm\\Desktop\\gen\\DemoApi\\DemoApi.csproj",
+      "projectPath": "C:\\Users\\MohammadParvejMohamm\\Desktop\\up\\jenkins_practice\\DemoApi\\DemoApi.csproj",
       "packagesPath": "C:\\Users\\MohammadParvejMohamm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MohammadParvejMohamm\\Desktop\\gen\\DemoApi\\obj\\",
+      "outputPath": "C:\\Users\\MohammadParvejMohamm\\Desktop\\up\\jenkins_practice\\DemoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
